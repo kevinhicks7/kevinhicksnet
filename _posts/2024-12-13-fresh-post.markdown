@@ -1,6 +1,6 @@
 ---
-title: fresh post
-layout: default
+layout: posts
+title: "fresh post"
 ---
 
 some words
